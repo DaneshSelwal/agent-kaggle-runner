@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/google/antigravity/main/schema/plugin.schema.json",
+  "name": "kaggle-runner-plugin",
+  "description": "Antigravity plugin to remotely execute Jupyter notebooks on Kaggle's GPU/TPU environments.",
+  "version": "1.0.0",
+  "author": "Antigravity Agent",
+  "skills": [
+    "skills/kaggle-run.md"
+  ],
+  "rules": [
+    "rules/kaggle-warnings.md"
+  ]
+}
