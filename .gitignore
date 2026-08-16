@@ -1,0 +1,7 @@
+kaggle.json
+access_token
+__pycache__/
+*.pyc
+results/
+error_logs/
+.DS_Store
